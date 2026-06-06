@@ -1,0 +1,11 @@
+data/raw/*.csv
+data/processed/*.csv
+artifacts/*.pkl
+artifacts/*.txt
+mlruns/
+mlflow.db
+__pycache__/
+*.pyc
+venv/
+.ipynb_checkpoints/
+.DS_Store

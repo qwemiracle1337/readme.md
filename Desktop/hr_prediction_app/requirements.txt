@@ -1,0 +1,10 @@
+catboost==1.2.10
+joblib==1.5.3
+numpy==2.4.6
+pandas==2.2.3
+pytest==9.0.3
+scikit_learn==1.8.0
+mlflow==3.12.0
+psutil==7.2.2
+imbalanced-learn==0.13.0
+python-dotenv==1.0.0
