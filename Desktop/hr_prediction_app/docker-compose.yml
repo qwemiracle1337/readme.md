@@ -1,9 +1,0 @@
-version: '3.8'
-
-services:
-  hr-pipeline:
-    image: hr-model:latest
-    container_name: hr-model
-    volumes:
-      - ./data:/app/data
-      - ./artifacts:/app/artifacts
